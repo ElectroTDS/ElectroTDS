@@ -16,7 +16,7 @@ TEXT=Reached Veteran Job status.
 TEXT=Only three achievements remain.
 
 SECTION=Website
-TEXT=Started work on the website news system which you are reading right now :).
+TEXT=Started work on the website news system which you are reading right now.
 TEXT=Next is to get the News Archive working so that no news post is lost.
 
 TEXT=Ending notes: every monday will be a news post unless otherwise noted and this one your looking at is a placeholder
