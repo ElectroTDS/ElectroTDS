@@ -1,0 +1,22 @@
+TITLE=In The Beginning Electro Created The Website
+DATE=July 16th, 2026
+
+INTRO=As the website is being built, this will track what I have done for the week.
+
+SECTION=Speedruns
+SUBTITLE=MKDD
+TEXT=Got two PBs on Luigi Circuit.
+TEXT=3-lap improved from 15th to 13th.
+TEXT=Flap improved from 16th to 15th.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Finished all Road Rivals.
+TEXT=Reached Veteran Job status.
+TEXT=Only three achievements remain.
+
+SECTION=Website
+TEXT=Started work on the website news system which you are reading right now :).
+TEXT=Next is to get the News Archive working so that no news post is lost.
+
+TEXT=Ending notes: every monday will be a news post unless otherwise noted and this one your looking at is a placeholder
