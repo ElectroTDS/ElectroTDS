@@ -76,6 +76,9 @@
             flex: 1;
             padding: 30px;
             background-color: #fff;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
         }
 
         .message-box {
@@ -86,6 +89,72 @@
         }
 
         .message-box h2 {
+            margin-bottom: 10px;
+        }
+
+        .message-box-2 {
+            background-color: #eaebb1;
+            border-left: 5px solid #ddca1c;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .message-box-2 h2 {
+            margin-bottom: 10px;
+        }
+
+        .message-box-3 {
+            background-color: #72b8e0;
+            border-left: 5px solid #1731c0;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .message-box-3 h2 {
+            margin-bottom: 10px;
+        }
+
+       .message-box-4 {
+            background-color: #72b8e0;
+            border-left: 5px solid #1731c0;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .message-box-4 h2 {
+            margin-bottom: 10px;
+        }
+
+        .message-box-5 {
+            background-color: #72b8e0;
+            border-left: 5px solid #1731c0;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .message-box-5 h2 {
+            margin-bottom: 10px;
+        }
+
+        .message-box-6 {
+            background-color: #72b8e0;
+            border-left: 5px solid #1731c0;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .message-box-6 h2 {
+            margin-bottom: 10px;
+        }
+
+        .message-box-7 {
+            background-color: #72b8e0;
+            border-left: 5px solid #1731c0;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .message-box-7 h2 {
             margin-bottom: 10px;
         }
     </style>
@@ -114,20 +183,143 @@
                 <li><a href="#">MKDD Timesheet</a></li>
                 <li><a href="#">Projects</a></li>
                 <li><a href="#">Movies</a></li>
+                <li><a href="#">News Archive</a></li>
             </ul>
         </div>
 
         <!-- Content Area -->
         <div class="content">
             <div class="message-box">
-                <h2>Welcome to My Website!</h2>
+                <h2>Website is WIP!</h2>
                 <p>
-                    hello
+                    indev 1.1 Added News Section on Home page.
                 </p>
+                </div>
+
+                <div class="message-box-2">
+                <h2>Upcoming Features!</h2>
+                <p>
+                    News Archive and Projects pages are in the works
+                </p> 
+                </div>
+                
+                 <br>
+                 <h1>News Section</h1> 
+
+                <div class="message-box-3" id="news1"></div>
+
+
+                
             </div>
         </div>
-
     </div>
+  
+<script>
+async function loadNews(file, elementID) {
+    const response = await fetch(file);
+    const text = await response.text();
+
+    const lines = text.split(/\r?\n/);
+
+    let title = "";
+    let date = "";
+    let intro = "";
+
+    const sections = [];
+    let currentSection = null;
+
+    for (const raw of lines) {
+
+        const line = raw.trim();
+
+        if (line === "" || line.startsWith("#"))
+            continue;
+
+        const index = line.indexOf("=");
+
+        if (index === -1)
+            continue;
+
+        const key = line.substring(0, index).trim().toUpperCase();
+        const value = line.substring(index + 1).trim();
+
+        switch (key) {
+
+            case "TITLE":
+                title = value;
+                break;
+
+            case "DATE":
+                date = value;
+                break;
+
+            case "INTRO":
+                intro = value;
+                break;
+
+            case "SECTION":
+                currentSection = {
+                    title: value,
+                    subtitle: "",
+                    paragraphs: []
+                };
+                sections.push(currentSection);
+                break;
+
+            case "SUBTITLE":
+                if (currentSection)
+                    currentSection.subtitle = value;
+                break;
+
+            case "TEXT":
+                if (!currentSection) {
+                    currentSection = {
+                        title: "",
+                        subtitle: "",
+                        paragraphs: []
+                    };
+                    sections.push(currentSection);
+                }
+
+                currentSection.paragraphs.push(value);
+                break;
+        }
+    }
+
+    let html = "";
+
+    if (title)
+        html += `<h2>${title}</h2>`;
+
+    if (date)
+        html += `<h5>Date: ${date}</h5>`;
+
+    if (title || date)
+        html += "<br>";
+
+    if (intro)
+        html += `<p>${intro}</p><br>`;
+
+    for (const section of sections) {
+
+        if (section.title)
+            html += `<h2>${section.title}</h2>`;
+
+        if (section.subtitle)
+            html += `<h3>${section.subtitle}</h3>`;
+
+        for (const paragraph of section.paragraphs)
+            html += `<p>${paragraph}</p>`;
+
+        html += "<br>";
+    }
+
+    document.getElementById(elementID).innerHTML = html;
+}
+
+loadNews("news1.txt", "news1");
+</script>
+
 
 </body>
 </html>
