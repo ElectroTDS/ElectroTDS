@@ -1,0 +1,36 @@
+TITLE=In The Beginning Electro Created The Website
+DATE=July 20th, 2026
+
+INTRO=As the website is being built, this will track what I have done for the week.
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=Got two PBs on Luigi Circuit.
+TEXT=3-lap improved from 15th to 13th.
+TEXT=Flap improved from 16th to 14th.
+
+TEXT=Happy to get God+10 on LC Flap currently 7/8 g+10s for mushroom cup and have 12/32 so far for no glitch in total.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Finished all Road Rivals.
+TEXT=Reached Seasoned Delivery Driver Job status.
+TEXT=Horizon Decades is complete.
+TEXT=Got new house, need 1 more to get them all.
+TEXT=1/3rd of cross country rivals is done.
+TEXT=Reached level 11 in Horizon Play!
+TEXT=Italian Exotics for summer is almost done, just need the 3 mini missions left.
+
+TEXT=Forza has been a grind lately, but am making lots of progress towards completing and getting all cheevos. 
+
+SECTION=
+SUBTITLE=Super Mario Galaxy
+TEXT=Got 120 stars, and completed the game as Mario
+
+TEXT=Need to complete the game as Luigi then its completed.
+
+SECTION=Website
+TEXT=Started work on the website news system which you are reading right now .
+TEXT=Next is to get the News Archive working so that no news post is lost.
+SECTION=
+TEXT=Plans this week: YC 3-lap and some flap, More Forza grinding, and maybe will continue some Super Paper Mario? 
