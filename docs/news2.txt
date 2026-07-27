@@ -1,0 +1,34 @@
+TITLE=We Top 10!!
+DATE=July 27th, 2026
+
+INTRO=This week was really good, plenty on new pbs and goals reached!
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=Got 2 PBs on Yoshi Circuit and 2 PBs on Daisy Cruiser.
+TEXT=YC 3-lap was a very nice improvement by over 300ms, getting sub 1:40 with a 1:39.896, jumping from 21 to 13.
+TEXT=YC Flap like 3-lap was also a huge improvement by 69ms with a 32.064 also achieving my goal time of 099. this one pb jumped me from 14 to 8.
+TEXT=DC 3-lap was improved by 300ms with a 1:36.658 beating my goal time of 699, this went from 18 to 14.
+TEXT=DC Flap was a nice little cut only 40ms with a 31.155, it edged out my goal as well which is 160. jumped from 15 to 10.
+SECTION=
+TEXT=Overall a huge week for Double Dash. 4 pbs, 2 new top 10s, 3 goals achieved and best of all getting top 10 overall in af.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Finished all Cross-country Rivals.
+TEXT=Half way to next Delivery Driver Status.
+TEXT=Reached level 15 in Horizon Play!
+TEXT=Italian Exotics for fall is almost done, just need 4 mini missions left.
+TEXT=Bought all houses and edited all garage layouts to get those journal items complete.
+SECTION=
+TEXT=Not as much progress this week but still am slowly chipping away at it.
+
+SECTION=
+SUBTITLE=Mario Kart: Double Dash!! Extended
+TEXT=Am back at this rom hack grinding achievements. Got all mushroom cup cheevos and 50cc All Cup Tour (that was rough).
+
+SECTION=What's New + This Weeks Plans
+TEXT=Got a new game via a friend called Last Train Outta Wormtown, played it with some friends and it has cheevos so new game added to mastery page.
+SECTION=
+TEXT=Plans this week: hoping to get pbs on PB 3-lap, PB Flap, BP 7-lap, .3 BP Flap with 50hz and MAC Flap. wanna get them before august which im planning to grind RR for 3rd place.
+TEXT=Will continue Forza 6 and MKDD Extended. hopefully will get back into Super Paper Mario too.
