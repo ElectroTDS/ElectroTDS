@@ -61,6 +61,7 @@ Kirby's Dream Land 3|2D Platformer|Kirby|SNES|HAL Laboratory|No Progress|0
 Kirby Star Allies|2D Platformer|Kirby|Switch|HAL Laboratory|In Progress|0
 Kirby Super Star|2D Platformer|Kirby|SNES|HAL Laboratory|No Progress|0
 Knuckles In Sonic 2|2D Platformer|Sonic|Genesis|Sega|No Progress|0
+Last Train Outta' Wormtown|FriendSlop|Wormtown|Steam|Get(Color) Games|No Progress|0
 Laundry Store Simulator|Simulation|Life Sim|Steam|Akhir Pekan Studios|No Progress|0
 Lawn Mowing Simulator|Simulation|Life Sim|Epic|Unknown|No Progress|0
 Lego Batman: The Video Game|Action-Adventure|Lego|Steam|TT Games|No Progress|0
