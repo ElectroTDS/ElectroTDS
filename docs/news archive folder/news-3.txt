@@ -1,0 +1,33 @@
+TITLE=Gotta Have Downs Before Ups
+DATE=August 3rd, 2026
+
+INTRO=Didnt get much done but still did made a little progress.
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=2 New 50hz only PBs on PB.
+TEXT= 3-lap got very close to combined pr with a 1:07.447 missing combined by 6ms. 
+TEXT= Flap was a small improvement by about 15ms with a 21.671.
+SECTION=
+TEXT=Not much for speedruns this week but PB 3-lap was one of the 5 missing 50hz prs so only have 4 left to go for a full 50hz timesheet.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Started progress on Touge & Street rivals.
+TEXT=Half of winters Italian Exotics is done
+TEXT=Reached level 16 in Horizon Play!
+TEXT=Half way to getting the last tier of Delivery Driver Status.
+TEXT=Completed the Car Upgrade Journal.
+SECTION=
+TEXT=Not much forza this week but still making progress. 
+
+SECTION=
+SUBTITLE=Mario Kart: Double Dash!! Extended
+TEXT=Got all Flower Cup achievements
+TEXT=Got all Star Cup achievements
+TEXT=Got all Special Cup achievements
+TEXT=Got 1/4 of All Cup Tour achievements
+
+SECTION=This Weeks Plans
+TEXT=Gonna start Rainbow Road top 3 grind and try to defend Sherbet Land Glitch WR.
+TEXT=Will continue Forza 6 and MKDD Extended and maybe continue Super Mario Bros. achievements?
