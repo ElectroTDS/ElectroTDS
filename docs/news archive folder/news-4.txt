@@ -1,0 +1,40 @@
+TITLE=This Week Was Definitely An Up
+DATE=August 10th, 2026
+
+INTRO=Very successful week all around.
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=Got a new WR on Sherbet Land Glitch Flap. 20ms improvement with 23.480 the first ever .4 on SL Flap.
+TEXT=Finished 50hz timesheet with 2 Baby Park times that are kinda mid but it helps with the sheet. 
+TEXT=Also got 2 Rainbow Road PRs with one of them being a new combined PR 2:54.500 31ms improvement. goes from 7 > 6.
+SECTION=
+TEXT=Little quiet combined wise but new WR and 50hz sheet being done is pretty nice.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Italian Exotics is almost done.
+TEXT=Completed Delivery Driver Jobs and got the achievement.
+TEXT=Made progress towards link skills with a friend.
+SECTION=
+TEXT=Once again not much this week but still making progress.
+
+SECTION=
+SUBTITLE=Mario Kart: Double Dash!! Extended
+TEXT=Extended is now mastered!!
+TEXT=All dev times beaten.
+TEXT=Got all ACTs done.
+SECTION=
+TEXT=Very fun rom hack and cheevo set but it does get a bit old fast but glad its done.
+
+SECTION=
+SUBTITLE=Super Mario Bros.
+TEXT=SMB is now mastered!!
+TEXT=lot of random cheevos had to get done.
+SECTION=
+TEXT=Timeless classic but very hard achievements that tested my patience but thankfully had just enough to get this one done.
+
+
+SECTION=This Weeks Plans
+TEXT=Will continue RR 3 Lap top 3 grind and hopefully get a .1 on flap.
+TEXT=Also will continue Forza 6 as always and start a new game being Goat Simulator, lets see how long this game will take to complete.
