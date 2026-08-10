@@ -83,7 +83,7 @@ Mario Kart 8 Deluxe|Racing|Super Mario|Switch|Nintendo|In Progress|0
 Mario Kart: Double Dash!!|Racing|Super Mario|Gamecube|Nintendo|Mastered|6
 Mario Kart: Double Dash!! Hero Subset|Racing|Super Mario|Gamecube|RA|Mastered|13
 Mario Kart: Double Dash!! Plus|Racing|Super Mario|Gamecube|Rom-Hack|No Progress|0
-Mario Kart: Double Dash!! Extended|Racing|Super Mario|Gamecube|Rom-Hack|In Progress|0
+Mario Kart: Double Dash!! Extended|Racing|Super Mario|Gamecube|Rom-Hack|Mastered|17
 Mario Kart DS|Racing|Super Mario|DS|Nintendo|Beaten|0
 Mario Kart Super Circuit|Racing|Super Mario|GBA|Nintendo|Beaten|0
 Mario Kart Tour|Racing|Super Mario|IOS|Nintendo|Mastered|2
@@ -94,7 +94,7 @@ Mario Party Superstars|Party|Super Mario|Switch|Nintendo|In Progress|0
 Mario Power Tennis|Sports|Super Mario|Gamecube|Nintendo|In Progress|0
 Mario Sports Mix|Sports|Super Mario|Wii|Nintendo|In Progress|0
 Mario Super Sluggers|Sports|Super Mario|Wii|Nintendo|In Progress|0
-MECCHA CHAMELEON|FriendSlop|MECCHA|Steam|lemorion_1224|Mastered|15
+MECCHA CHAMELEON|FriendSlop|MECCHA|Steam|lemorion_1224|Mastered|16
 Metroid|Metroidvania|Metroid|NES|Nintendo|No Progress|0
 Metroid 2: Return Of Samus|Metroidvania|Metroid|GB|Nintendo|No Progress|0
 Metroid Fusion|Metroidvania|Metroid|GBA|Nintendo|No Progress|0
@@ -171,7 +171,7 @@ Super Mario 3D All-Stars|3D Platformer|Super Mario|Switch|Nintendo|In Progress|0
 Super Mario 3D Land|3D Platformer|Super Mario|3DS|Nintendo|In Progress|0
 Super Mario 3D World + Bowsers Fury|3D Platformer|Super Mario|Switch|Nintendo|In Progress|0
 Super Mario All-Stars|2D Platformer|Super Mario|SNES|Nintendo|No Progress|0
-Super Mario Bros.|2D Platformer|Super Mario|NES|Nintendo|Beaten|0
+Super Mario Bros.|2D Platformer|Super Mario|NES|Nintendo|Mastered|18
 Super Mario Bros. 2|2D Platformer|Super Mario|NES|Nintendo|Beaten|0
 Super Mario Bros. 3|2D Platformer|Super Mario|NES|Nintendo|No Progress|0
 Super Mario Land|2D Platformer|Super Mario|GB|Nintendo|No Progress|0
