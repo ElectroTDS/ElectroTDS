@@ -1,36 +1,28 @@
-TITLE=In The Beginning Electro Created The Website
-DATE=July 20th, 2026
+TITLE=Separating The Sheep From The Goats
+DATE=August 17th, 2026
 
-INTRO=As the website is being built, this will track what I have done for the week.
+INTRO=Not a lot happened that's notable.
 
 SECTION=Speedruns
-SUBTITLE=Mario Kart: Double Dash!!
-TEXT=Got two PBs on Luigi Circuit.
-TEXT=3-lap improved from 15th to 13th.
-TEXT=Flap improved from 16th to 14th.
-
-TEXT=Happy to get God+10 on LC Flap currently 7/8 g+10s for mushroom cup and have 12/32 so far for no glitch in total.
+SUBTITLE=No PRs.
 
 SECTION=Game Completion
 SUBTITLE=Forza Horizon 6
-TEXT=Finished all Road Rivals.
-TEXT=Reached Seasoned Delivery Driver Job status.
-TEXT=Horizon Decades is complete.
-TEXT=Got new house, need 1 more to get them all.
-TEXT=1/3rd of cross country rivals is done.
-TEXT=Reached level 11 in Horizon Play!
-TEXT=Italian Exotics for summer is almost done, just need the 3 mini missions left.
-
-TEXT=Forza has been a grind lately, but am making lots of progress towards completing and getting all cheevos. 
+TEXT=3/4 done with street rivals.
+TEXT=Reached level 17 in Horizon Play!
+TEXT=Italian Exotics is completed.
+TEXT=Mascot Party (i believe is the name) is the next event and am almost done with summer with 3 missions left to get.
+SECTION=
+TEXT=Will i reach level 100 before next year? Hopefully. 
 
 SECTION=
-SUBTITLE=Super Mario Galaxy
-TEXT=Got 120 stars, and completed the game as Mario
-
-TEXT=Need to complete the game as Luigi then its completed.
-
-SECTION=Website
-TEXT=Started work on the website news system which you are reading right now .
-TEXT=Next is to get the News Archive working so that no news post is lost.
+SUBTITLE=Goat Simulator
+TEXT=Goatville is 100% completed.
+TEXT=Goat City Bay is half complete.
+TEXT=MMO Level is half complete.
 SECTION=
-TEXT=Plans this week: YC 3-lap and some flap, More Forza grinding, and maybe will continue some Super Paper Mario? 
+TEXT=39/127 achievements so far. Haven't tried dlc stuff yet, plan is to finish main game stuff first then move on to dlc. 
+
+SECTION=This Weeks Plans
+TEXT=Hopefully my break from MKDD will help me to feel fresh on Rainbow Road, hopefully top 3 will happen.
+TEXT=More Forza and Goat Sim.
