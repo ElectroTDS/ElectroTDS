@@ -1,0 +1,28 @@
+TITLE=Separating The Sheep From The Goats
+DATE=August 17th, 2026
+
+INTRO=Not a lot happened that's notable.
+
+SECTION=Speedruns
+SUBTITLE=No PRs.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=3/4 done with street rivals.
+TEXT=Reached level 17 in Horizon Play!
+TEXT=Italian Exotics is completed.
+TEXT=Mascot Party (i believe is the name) is the next event and am almost done with summer with 3 missions left to get.
+SECTION=
+TEXT=Will i reach level 100 before next year? Hopefully. 
+
+SECTION=
+SUBTITLE=Goat Simulator
+TEXT=Goatville is 100% completed.
+TEXT=Goat City Bay is half complete.
+TEXT=MMO Level is half complete.
+SECTION=
+TEXT=39/127 achievements so far. Haven't tried dlc stuff yet, plan is to finish main game stuff first then move on to dlc. 
+
+SECTION=This Weeks Plans
+TEXT=Hopefully my break from MKDD will help me to feel fresh on Rainbow Road, hopefully top 3 will happen.
+TEXT=More Forza and Goat Sim.
