@@ -1,0 +1,32 @@
+TITLE=Rainbow Road of Broken Dreams
+DATE=August 24th, 2026
+
+INTRO=Reached a new goal and some new cheevos!!
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=Got 2 PBs on Rainbow Road, one being the top 3 i was going for on the 3-Lap with a 2:54.316 marking my 3rd Goomba bop for no glitch.
+TEXT=Other Rainbow Road PB is a 4ms Flap improvement 50hz only 57.401.
+TEXT=Also got a decent 50hz PB on MaC 3-Lap with 1:27.282, still .2 from combined PB there.
+SECTION=
+TEXT=Pretty happy with the top 3, like to see more of that next week.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Got a new Achievement Historic Effort by getting a history reward. 56/57 1 more to go for Mastery.
+TEXT=All Touge Rivals complete.
+TEXT=Reached level 21 in Horizon Play!
+SECTION=
+TEXT=Wont be focusing much on event stuff now that i got the 1 cheevo, will mostly be doing Horizon Play! and finishing rivals.
+
+SECTION=
+SUBTITLE=Goat Simulator
+TEXT=Sitting at 68/127 cheevos.
+TEXT=Goat City Bay is Complete.
+TEXT=MMO Level is almost complete, have 2 cheevos left from that level
+TEXT=Bought all the DLC so will start those this week.
+
+SECTION=This Weeks Plans
+SECTION=
+TEXT=Plans this week: More Rainbow Road Mainly going for a .1 Flap, also been trying MuC Glitch Flap attempts too hoping for WR.
+TEXT=More Forza 6 and Goat Sim. 
