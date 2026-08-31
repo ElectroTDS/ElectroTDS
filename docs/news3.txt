@@ -19,4 +19,4 @@ SECTION=This Weeks Plans
 SECTION=
 TEXT=Waiting for Wii to show up so that i can get back to the grind. I want to continue Rainbow Road and go for 2nd on Flap.
 TEXT=Forza 6.
-TEXT=If i cant get Goat Sim to work then ill work on some steam games that i have some progress in already. 
+TEXT=If i cant get Goat Sim to work then ill work on some steam games that i have some progress in already.
