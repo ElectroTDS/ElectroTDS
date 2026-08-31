@@ -1,33 +1,22 @@
-TITLE=Gotta Have Downs Before Ups
-DATE=August 3rd, 2026
-
-INTRO=Didnt get much done but still did made a little progress.
+TITLE=RIP Wii U and Goat Simulator
+DATE=August 31st, 2026
 
 SECTION=Speedruns
 SUBTITLE=Mario Kart: Double Dash!!
-TEXT=2 New 50hz only PBs on PB.
-TEXT= 3-lap got very close to combined pr with a 1:07.447 missing combined by 6ms. 
-TEXT= Flap was a small improvement by about 15ms with a 21.671.
+TEXT=Only 1 PB and its Rainbow Road Flap, 57.115 a jump from 9th to 4th.
 SECTION=
-TEXT=Not much for speedruns this week but PB 3-lap was one of the 5 missing 50hz prs so only have 4 left to go for a full 50hz timesheet.
+TEXT=Another goal reached!! but on a sad note i cant use Wii U for MKDD anymore, so i need to wait for my Wii to arrive before i can get more PBs.
 
 SECTION=Game Completion
-SUBTITLE=Forza Horizon 6
-TEXT=Started progress on Touge & Street rivals.
-TEXT=Half of winters Italian Exotics is done
-TEXT=Reached level 16 in Horizon Play!
-TEXT=Half way to getting the last tier of Delivery Driver Status.
-TEXT=Completed the Car Upgrade Journal.
+SUBTITLE=Goat Simulator
+TEXT=Sitting at 88/127 cheevos.
+TEXT=1 more cheevo for MMO Level.
+TEXT=DLC Payday is complete.
 SECTION=
-TEXT=Not much forza this week but still making progress. 
-
-SECTION=
-SUBTITLE=Mario Kart: Double Dash!! Extended
-TEXT=Got all Flower Cup achievements
-TEXT=Got all Star Cup achievements
-TEXT=Got all Special Cup achievements
-TEXT=Got 1/4 of All Cup Tour achievements
+TEXT=Attempted to start next DLC map Waste of Space but then i learned that its been having issues with crashing on newer PCs. Unfortunately i wont be able to complete this unless i figure out a solution or wait for an update to fix it.
 
 SECTION=This Weeks Plans
-TEXT=Gonna start Rainbow Road top 3 grind and try to defend Sherbet Land Glitch WR.
-TEXT=Will continue Forza 6 and MKDD Extended and maybe continue Super Mario Bros. achievements?
+SECTION=
+TEXT=Waiting for Wii to show up so that i can get back to the grind. I want to continue Rainbow Road and go for 2nd on Flap.
+TEXT=Forza 6.
+TEXT=If i cant get Goat Sim to work then ill work on some steam games that i have some progress in already. 
