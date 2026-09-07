@@ -1,0 +1,23 @@
+TITLE="Who Wants A New Wii?!!"
+DATE=September 7th, 2026
+
+INTRO=As the title suggest got a new wii and can now grind MKDD again.
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=No new PRs this week but had my first comfortable sub pace on RR.
+
+
+SECTION=Game Completion
+
+SECTION=
+SUBTITLE=Tunic
+TEXT=Decided to come back to Tunic after started a playthrough a few months back where i had 5 cheevos.
+TEXT=In new playthrough i now got 6 new cheevos. now sit at 11/36.
+SECTION=
+TEXT=About half way done with this game but still many cheevos to get.
+
+
+SECTION=This Weeks Plans
+TEXT=More RR and MUC Glitch.
+TEXT=Forza 6 (hopefully), more Tunic and gonna start a new Retro Achievement game.
