@@ -1,0 +1,16 @@
+TITLE=Football Is Back!!
+DATE=September 14th, 2026
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart World
+TEXT=Tried out the new SNES tracks and ended up getting 8th on Vanilla Lake 1:26.529. Later improved to a 1:25.405.
+
+SECTION=Game Completion
+SUBTITLE=The Legend of Zelda: A Link to the Past
+TEXT=Started Retro Achievement set for this game.
+TEXT=22/109 cheevos so far.
+TEXT=Beat the 2nd dungeon.
+
+SECTION=This Weeks Plans
+TEXT=Didnt have as much time as id like to play games but ill hopefully get back to grinding more Rainbow Road and more MKWorld.
+TEXT=More Forza, Tunic and Link to the Past.
