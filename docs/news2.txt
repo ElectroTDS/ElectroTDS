@@ -1,32 +1,22 @@
-TITLE=Rainbow Road of Broken Dreams
-DATE=August 24th, 2026
-
-INTRO=Reached a new goal and some new cheevos!!
+TITLE=The Legend of Link: A Zelda to the Past
+DATE=September 21th, 2026
 
 SECTION=Speedruns
-SUBTITLE=Mario Kart: Double Dash!!
-TEXT=Got 2 PBs on Rainbow Road, one being the top 3 i was going for on the 3-Lap with a 2:54.316 marking my 3rd Goomba bop for no glitch.
-TEXT=Other Rainbow Road PB is a 4ms Flap improvement 50hz only 57.401.
-TEXT=Also got a decent 50hz PB on MaC 3-Lap with 1:27.282, still .2 from combined PB there.
+SUBTITLE=Mario Kart World
+TEXT=Improved Vanilla Lake 1 to 1:25:125, 17th on Players Page.
+
 SECTION=
-TEXT=Pretty happy with the top 3, like to see more of that next week.
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=Got new world record on Rainbow Road 3-Lap 2:53.751 first God+6. Unique WR #13, WR #28 and now am tied 1st for most currently held WRs at 12.
+TEXT=Also got a .1 cut on Mario Circuit Flap 27.679 went from 19th to 13th.
 
 SECTION=Game Completion
-SUBTITLE=Forza Horizon 6
-TEXT=Got a new Achievement Historic Effort by getting a history reward. 56/57 1 more to go for Mastery.
-TEXT=All Touge Rivals complete.
-TEXT=Reached level 21 in Horizon Play!
-SECTION=
-TEXT=Wont be focusing much on event stuff now that i got the 1 cheevo, will mostly be doing Horizon Play! and finishing rivals.
-
-SECTION=
-SUBTITLE=Goat Simulator
-TEXT=Sitting at 68/127 cheevos.
-TEXT=Goat City Bay is Complete.
-TEXT=MMO Level is almost complete, have 2 cheevos left from that level
-TEXT=Bought all the DLC so will start those this week.
+SUBTITLE=The Legend of Zelda: A Link to the Past
+TEXT=89/109 cheevos.
+TEXT=Finished first playthrough.
+TEXT=At dark world for second playthrough.
 
 SECTION=This Weeks Plans
-SECTION=
-TEXT=Plans this week: More Rainbow Road Mainly going for a .1 Flap, also been trying MuC Glitch Flap attempts too hoping for WR.
-TEXT=More Forza 6 and Goat Sim. 
+TEXT=Despite getting Rainbow Road WR i am still not done there, id like to push it down more and also want a better Flap there.
+TEXT=Also some more Mario Circuit hoping to get both of my goal times achieved there.
+TEXT=Will try to complete Link to the Past and maybe some more Tunic.
