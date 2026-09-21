@@ -18,5 +18,5 @@ TEXT=At dark world for second playthrough.
 
 SECTION=This Weeks Plans
 TEXT=Despite getting Rainbow Road WR i am still not done there, id like to push it down more and also want a better Flap there.
-TEXT=Also some more Mario Circuit hoping to get both of my goal times achieved there.
+TEXT=Also will try some more Mario Circuit hoping to get both of my goal times achieved there.
 TEXT=Will try to complete Link to the Past and maybe some more Tunic.
