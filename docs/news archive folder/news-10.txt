@@ -1,0 +1,22 @@
+TITLE=The Legend of Link: A Zelda to the Past
+DATE=September 21th, 2026
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart World
+TEXT=Improved Vanilla Lake 1 to 1:25:125, 17th on Players Page.
+
+SECTION=
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=Got new world record on Rainbow Road 3-Lap 2:53.751 first God+6. Unique WR #13, WR #28 and now am tied 1st for most currently held WRs at 12.
+TEXT=Also got a .1 cut on Mario Circuit Flap 27.679 went from 19th to 13th.
+
+SECTION=Game Completion
+SUBTITLE=The Legend of Zelda: A Link to the Past
+TEXT=89/109 cheevos.
+TEXT=Finished first playthrough.
+TEXT=At dark world for second playthrough.
+
+SECTION=This Weeks Plans
+TEXT=Despite getting Rainbow Road WR i am still not done there, id like to push it down more and also want a better Flap there.
+TEXT=Also some more Mario Circuit hoping to get both of my goal times achieved there.
+TEXT=Will try to complete Link to the Past and maybe some more Tunic.
