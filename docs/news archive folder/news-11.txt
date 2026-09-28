@@ -1,0 +1,17 @@
+TITLE=Now Your Playing With Power
+DATE=September 28th, 2026
+
+SECTION=Speedruns
+SUBTITLE=No PRs :(.
+
+SECTION=Game Completion
+SUBTITLE=The Legend of Zelda: A Link to the Past
+TEXT=3 new cheevos earned, now sitting at 92/109.
+SECTION=
+TEXT=Not much achievement wise this update mostly due to having to save Zelda first before any other maiden which takes a bit to do.
+
+SECTION=This Weeks Plans
+SECTION=
+TEXT=Rainbow Road (might focus more on Flap this time).
+TEXT=Will Try to finish Link to the Past.
+TEXT=Tunic.
