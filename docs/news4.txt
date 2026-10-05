@@ -17,6 +17,6 @@ TEXT=Very fun game and achievement set, am planning to make a video on this set 
 
 SECTION=This Weeks Plans
 SECTION=
-TEXT=Start work on Link to the Past video.
+TEXT=Start work on A Link to the Past video.
 TEXT=More MK64 and MKDD.
 TEXT=Return to Tunic.
