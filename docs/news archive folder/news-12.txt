@@ -1,0 +1,22 @@
+TITLE=[INSERT NEWS TITLE HERE]
+DATE=October 5th, 2026
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart 64
+TEXT=Returned to this game after almost a year and a half, got PAL setup.
+TEXT=2 new PRs on Luigi Raceway 2:01.28 Elite A Ranked 408th and Flap 38.54 King D Ranked 394.
+SECTION=
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=No new PRs but did get BKS on Rainbow Road opener 58.247.
+
+SECTION=Game Completion
+SUBTITLE=The Legend of Zelda: A Link to the Past
+TEXT=Mastered this game got all 109 achievements.
+SECTION=
+TEXT=Very fun game and achievement set, am planning to make a video on this set so stay tuned for that.
+
+SECTION=This Weeks Plans
+SECTION=
+TEXT=Start work on Link to the Past video.
+TEXT=More MK64 and MKDD.
+TEXT=Return to Tunic.
