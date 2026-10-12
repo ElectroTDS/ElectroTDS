@@ -1,16 +1,26 @@
-TITLE=Football Is Back!!
-DATE=September 14th, 2026
+TITLE=Welcome to Mario Kart!!
+DATE=October 12th, 2026
 
 SECTION=Speedruns
-SUBTITLE=Mario Kart World
-TEXT=Tried out the new SNES tracks and ended up getting 8th on Vanilla Lake 1:26.529. Later improved to a 1:25.405.
+SUBTITLE=Mario Kart 64
+TEXT=2 new PRs on Luigi Raceway 2:00.84 King F Ranked 338th and Flap 38.18 Legend F Ranked 228th.
 
 SECTION=Game Completion
-SUBTITLE=The Legend of Zelda: A Link to the Past
-TEXT=Started Retro Achievement set for this game.
-TEXT=22/109 cheevos so far.
-TEXT=Beat the 2nd dungeon.
+SUBTITLE=Forza Horizon 6
+TEXT=Returned to this game after over a month.
+TEXT=Reached level 22 in Horizon Play!
+SECTION=
+SUBTITLE=ARK Survival Ascended
+TEXT=Returned to this game after 2 years and got 1 new achievement now sitting at 2.
+
+SECTION=Video Progress
+SUBTITLE=Link to the Past Mastery Video
+TEXT=Script is done
+TEXT=2/5 pages of audio recorded 
+
 
 SECTION=This Weeks Plans
-TEXT=Didnt have as much time as id like to play games but ill hopefully get back to grinding more Rainbow Road and more MKWorld.
-TEXT=More Forza, Tunic and Link to the Past.
+SECTION=
+TEXT=More work on Link to the Past video.
+TEXT=More MK64 and MKDD.
+TEXT=More Forza, ARK and TUNIC.
