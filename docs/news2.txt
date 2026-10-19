@@ -11,7 +11,7 @@ TEXT=Reached level 23 in Horizon Play!
 
 SECTION=Video Progress
 SUBTITLE=Link to the Past Mastery Video
-TEXT=3/5 pages of audio recorded 
+TEXT=3/5 pages of audio recorded.
 
 
 SECTION=This Weeks Plans
