@@ -1,0 +1,22 @@
+TITLE=Hey!!
+DATE=October 19th, 2026
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=No PRs but did get a new best opener on Waluigi Stadium 31.501.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Reached level 23 in Horizon Play!
+SECTION=
+
+SECTION=Video Progress
+SUBTITLE=Link to the Past Mastery Video
+TEXT=3/5 pages of audio recorded 
+
+
+SECTION=This Weeks Plans
+SECTION=
+TEXT=More work on Link to the Past video.
+TEXT=More MK64 and MKDD.
+TEXT=More Forza, ARK and TUNIC.
