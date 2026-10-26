@@ -1,0 +1,21 @@
+TITLE=Ocarina of Time Remake is pre-ordered!!
+DATE=October 26th, 2026
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=Got new World Record on Waluigi Stadium Flap 30.146, thats my 29th WR in this game.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Reached level 27 in Horizon Play!
+SECTION=
+
+SUBTITLE=TUNIC
+TEXT=Got 2 more achievements sitting at 13/36. 
+
+
+SECTION=This Weeks Plans
+SECTION=
+TEXT=More work on Link to the Past video.
+TEXT=MKDD.
+TEXT=More Forza, ARK and TUNIC.
