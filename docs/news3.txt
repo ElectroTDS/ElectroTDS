@@ -18,4 +18,4 @@ SECTION=This Weeks Plans
 SECTION=
 TEXT=More work on Link to the Past video.
 TEXT=MKDD.
-TEXT=More Forza, ARK and TUNIC.
+TEXT=Forza, ARK and TUNIC.
