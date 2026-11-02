@@ -1,22 +1,26 @@
-TITLE=[INSERT NEWS TITLE HERE]
-DATE=October 5th, 2026
+TITLE=AI In Mario Kart Is Crazy
+DATE=November 2nd, 2026
 
 SECTION=Speedruns
-SUBTITLE=Mario Kart 64
-TEXT=Returned to this game after almost a year and a half, got PAL setup.
-TEXT=2 new PRs on Luigi Raceway 2:01.28 Elite A Ranked 408th and Flap 38.54 King D Ranked 394.
-SECTION=
 SUBTITLE=Mario Kart: Double Dash!!
-TEXT=No new PRs but did get BKS on Rainbow Road opener 58.247.
+TEXT=4 new prs to report, 2 of which achieved my goals.
+TEXT=Got 2 PRs on Dino Dino Jungle, 3Lap 1:40.715,ranked 3rd, 13/32 god+10 and a 50hz wr. Then got PR on the Flap 32.600, ranked 4th.
+TEXT=Got 2 PRS on Baby Park, 7Lap 1:03.566, ranked 16th. For Flap it was a 50hz PR 8.405.
+TEXT=I also lost a WR Dry Dry Desert Glitch Flap which i Held for 909 days. The new WR is by the legend Cole who now has a WR in 8/10 Mario Kart games.
+TEXT=Now down to 11 WRs, but overall a very nice week for Mario Kart.
 
 SECTION=Game Completion
-SUBTITLE=The Legend of Zelda: A Link to the Past
-TEXT=Mastered this game got all 109 achievements.
+SUBTITLE=Forza Horizon 6
+TEXT=Reached level 54 in Horizon Play!
 SECTION=
-TEXT=Very fun game and achievement set, am planning to make a video on this set so stay tuned for that.
+
+SUBTITLE=TUNIC
+TEXT=Went on a tear and got all 36 achievements and Mastered the game.
+TEXT=This is one of the best Zelda clones ive played, very challenging and rewarding.
 
 SECTION=This Weeks Plans
 SECTION=
-TEXT=Start work on A Link to the Past video.
-TEXT=More MK64 and MKDD.
-TEXT=Return to Tunic.
+TEXT=More work on Link to the Past video.
+TEXT=MKDD will prolly try to reclaim DDD Glitch WR.
+TEXT=More Forza and ARK.
+TEXT=I also might try to Master Hollow Knight.
