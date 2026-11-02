@@ -1,0 +1,26 @@
+TITLE=AI In Mario Kart Is Crazy
+DATE=November 2nd, 2026
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=4 new prs to report, 2 of which achieved my goals.
+TEXT=Got 2 PRs on Dino Dino Jungle, 3Lap 1:40.715,ranked 3rd, 13/32 god+10 and a 50hz wr. Then got PR on the Flap 32.600, ranked 4th.
+TEXT=Got 2 PRS on Baby Park, 7Lap 1:03.566, ranked 16th. For Flap it was a 50hz PR 8.405.
+TEXT=I also lost a WR Dry Dry Desert Glitch Flap which i Held for 909 days. The new WR is by the legend Cole who now has a WR in 8/10 Mario Kart games.
+TEXT=Now down to 11 WRs, but overall a very nice week for Mario Kart.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Reached level 54 in Horizon Play!
+SECTION=
+
+SUBTITLE=TUNIC
+TEXT=Went on a tear and got all 36 achievements and Mastered the game.
+TEXT=This is one of the best Zelda clones ive played, very challenging and rewarding.
+
+SECTION=This Weeks Plans
+SECTION=
+TEXT=More work on Link to the Past video.
+TEXT=MKDD will prolly try to reclaim DDD Glitch WR.
+TEXT=More Forza and ARK.
+TEXT=I also might try to Master Hollow Knight.
