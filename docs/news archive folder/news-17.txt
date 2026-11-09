@@ -1,0 +1,28 @@
+TITLE=Ocarina Of Time Remake is GAME OF THE YEAR!!
+DATE=November 9th, 2026
+
+SECTION=Speedruns
+SUBTITLE=Mario Kart: Double Dash!!
+TEXT=5 new prs to report, 2 of which achieved my goals.
+TEXT=New WR on Waluigi Stadium 3Lap 1:34.875 and that is WR #30* (if Glitch A doesn't count).
+TEXT=Got 2 PRs on Peach Beach, 3Lap 1:07.270, ranked 14th, 14/32 god+10 and 8/8 mush cup God+10. Then got PR on the Flap 21.616, ranked 14th.
+TEXT=Also got a PR on Luigi Circuit Glitch Flap 23.431, new 50hz WR and 3rd combined.
+TEXT=Tried out new Dry Dry Desert Glitch setup and did manage a new 50hz WR 6.190.
+
+SECTION=Game Completion
+SUBTITLE=Forza Horizon 6
+TEXT=Reached level 67 (not intentional) in Horizon Play!
+
+SUBTITLE=Hollow Knight
+TEXT=No new Achievements yet but started a new playthrough and am about a quarter of the way done. Sitting at 49/63.
+
+SUBTITLE=The Legend of Zelda: Ocarina of Time Remake
+TEXT=Game is a masterpiece enjoyed every moment of it so far.
+TEXT=Got all the way to Shadow temple.
+
+
+SECTION=This Weeks Plans
+SECTION=
+TEXT=Work on Link to the Past video.
+TEXT=MKDD
+TEXT=More Forza, Hollow Knight Ocarina of Time and ARK.
