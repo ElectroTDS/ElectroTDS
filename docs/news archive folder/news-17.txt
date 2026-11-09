@@ -12,17 +12,16 @@ TEXT=Tried out new Dry Dry Desert Glitch setup and did manage a new 50hz WR 6.19
 SECTION=Game Completion
 SUBTITLE=Forza Horizon 6
 TEXT=Reached level 67 (not intentional) in Horizon Play!
-
+SECTION=
 SUBTITLE=Hollow Knight
 TEXT=No new Achievements yet but started a new playthrough and am about a quarter of the way done. Sitting at 49/63.
-
+SECTION=
 SUBTITLE=The Legend of Zelda: Ocarina of Time Remake
 TEXT=Game is a masterpiece enjoyed every moment of it so far.
 TEXT=Got all the way to Shadow temple.
 
 
 SECTION=This Weeks Plans
-SECTION=
 TEXT=Work on Link to the Past video.
 TEXT=MKDD
 TEXT=More Forza, Hollow Knight Ocarina of Time and ARK.
