@@ -18,7 +18,7 @@ SUBTITLE=Hollow Knight
 TEXT=No new Achievements yet but started a new playthrough and am about a quarter of the way done. Sitting at 49/63.
 SECTION=
 
-SUBTITLE=The Legend of Zelda: Ocarina of Time Remake
+SUBTITLE=The Legend of Zelda Ocarina of Time Remake
 TEXT=Game is a masterpiece enjoyed every moment of it so far.
 TEXT=Got all the way to Shadow temple.
 
@@ -26,4 +26,4 @@ TEXT=Got all the way to Shadow temple.
 SECTION=This Weeks Plans
 TEXT=Work on Link to the Past video.
 TEXT=MKDD
-TEXT=More Forza, Hollow Knight Ocarina of Time and ARK.
+TEXT=More Forza, Hollow Knight, Ocarina of Time and ARK.
