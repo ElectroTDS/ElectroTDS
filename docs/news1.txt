@@ -25,5 +25,5 @@ TEXT=Got all the way to Shadow temple.
 
 SECTION=This Weeks Plans
 TEXT=Work on Link to the Past video.
-TEXT=MKDD
+TEXT=MKDD.
 TEXT=More Forza, Hollow Knight, Ocarina of Time and ARK.
