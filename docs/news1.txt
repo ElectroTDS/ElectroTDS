@@ -25,4 +25,4 @@ SECTION=This Weeks Plans
 SECTION=
 TEXT=Work on Link to the Past video.
 TEXT=MKDD
-TEXT=More Forza, Hollow Knight Ocarina of Time and ARK.
+TEXT=More Forza, Hollow Knight, Ocarina of Time and ARK.
