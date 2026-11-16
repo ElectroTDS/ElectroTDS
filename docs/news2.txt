@@ -1,21 +1,31 @@
-TITLE=Hey!!
-DATE=October 19th, 2026
+TITLE=Last News Before GTA 6
+DATE=November 16th, 2026
 
 SECTION=Speedruns
 SUBTITLE=Mario Kart: Double Dash!!
-TEXT=No PRs but did get a new best opener on Waluigi Stadium 31.501.
+TEXT=3 new prs to report, and a new unique WR.
+TEXT=New WR on Luigi Circuit Glitch Flap 23.322. Unique WR #14 and WR #31*. 
+TEXT=Small Flap PR on Peach Beach, 21.607 still 14th.
+TEXT=Also had a PR on Baby Park 7Lap, 1:03.403 ranked 13th, this is also my first no glitch PR that isn't with barrel train.
+
 
 SECTION=Game Completion
 SUBTITLE=Forza Horizon 6
-TEXT=Reached level 23 in Horizon Play!
+TEXT=Reached Horizon Play level 100!
+TEXT=This game is now mastered along with the Xbox set so 2 for 1 i guess.
+TEXT=I enjoyed my time with this game and definitely my favorite in the series so far, looking forward to Forza 5 someday.
+SECTION=
 
-SECTION=Video Progress
-SUBTITLE=Link to the Past Mastery Video
-TEXT=3/5 pages of audio recorded.
+SUBTITLE=Hollow Knight
+TEXT=Yet again no new achievements but I'm now in a position to get a bunch so expect some next update.
+SECTION=
+
+SUBTITLE=The Legend of Zelda Ocarina of Time Remake
+TEXT=This game is now mastered. No achievements sadly (thanks Nintendo), but pretty much did everything the game had to offer so id say its mastered.
+TEXT=Very good remake felt like a completely new which i really like cause the og still has a reason to play it.
 
 
 SECTION=This Weeks Plans
-SECTION=
-TEXT=More work on Link to the Past video.
-TEXT=More MK64 and MKDD.
-TEXT=More Forza, ARK and TUNIC.
+TEXT=Work on Link to the Past video. (i need to stop procrastinating).
+TEXT=MKDD, wanna improve peach beach and baby park times.
+TEXT=Hollow Knight, ARK and gonna continue Schedule 1.
