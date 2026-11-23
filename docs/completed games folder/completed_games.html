@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Completed Games Library</title>
+<style>
+  /* Navigation Bar */
+        .navbar {
+            background-color: #333;
+            color: white;
+            padding: 15px 20px;
+        }
+
+        .navbar h1 {
+            display: inline;
+        }
+
+        .nav-links {
+            float: right;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            margin-left: 20px;
+        }
+
+        .nav-links a:hover {
+            color: #00bcd4;
+        }
+
+  :root { color-scheme: dark; --bg:#0b1020; --panel:#121a2d; --panel2:#18233a; --line:#293650; --muted:#9ba9c2; --text:#edf3ff; --accent:#7c9cff; --accent2:#54d6bd; }
+  * { box-sizing:border-box; }
+  body { margin:0; min-height:100vh; background:radial-gradient(ellipse at 15% 0%,#1c2a4c 0,transparent 42%),var(--bg); color:var(--text); font:15px/1.5 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif; }
+  .wrap { width:min(1200px,calc(100% - 40px)); margin:0 auto; padding:54px 0 70px; }
+  .eyebrow { color:var(--accent2); font-size:12px; font-weight:800; letter-spacing:.16em; text-transform:uppercase; }
+  h1 { margin:8px 0 8px; font-size:clamp(32px,5vw,48px); line-height:1.08; letter-spacing:-.04em; }
+  .intro { margin:0; color:var(--muted); max-width:650px; }
+  .stats { display:flex; gap:12px; flex-wrap:wrap; margin:28px 0 24px; }
+  .stat { background:rgba(18,26,45,.88); border:1px solid var(--line); border-radius:14px; padding:13px 18px; min-width:150px; }
+  .stat strong { display:block; font-size:24px; line-height:1.2; }
+  .stat span { color:var(--muted); font-size:12px; }
+  .toolbar { display:flex; justify-content:space-between; align-items:end; gap:16px; flex-wrap:wrap; margin-bottom:14px; }
+  .filters { display:flex; gap:10px; flex-wrap:wrap; }
+  label { display:grid; gap:5px; color:var(--muted); font-size:12px; font-weight:700; }
+  select, input, button { font:inherit; }
+  select { min-width:175px; background:var(--panel); color:var(--text); border:1px solid var(--line); border-radius:10px; padding:10px 34px 10px 12px; }
+  .table-shell { overflow-x:auto; border:1px solid var(--line); border-radius:16px; background:rgba(18,26,45,.92); box-shadow:0 18px 50px #0003; }
+  table { width:100%; border-collapse:collapse; min-width:850px; }
+  thead { background:#18233a; }
+  th { padding:14px 16px; text-align:left; color:#aebbd2; font-size:11px; letter-spacing:.1em; text-transform:uppercase; white-space:nowrap; }
+  td { padding:12px 16px; border-top:1px solid var(--line); vertical-align:middle; }
+  tbody tr { transition:background .15s; }
+  tbody tr:hover { background:#ffffff08; }
+  .cover { display:block; width:76px; height:104px; object-fit:cover; border-radius:7px; box-shadow:0 5px 14px #0007; background:#26334d; }
+  .game-name { font-weight:750; font-size:15px; }
+  .subtle { color:var(--muted); font-size:12px; }
+  .pill { display:inline-block; padding:5px 9px; border:1px solid #3a4a69; border-radius:999px; color:#cbd7ef; background:#202d47; font-size:12px; white-space:nowrap; }
+  .rank { display:inline-grid; place-items:center; width:32px; height:32px; border-radius:10px; background:#243456; color:#dce6ff; font-weight:800; }
+  .empty { padding:38px 18px; text-align:center; color:var(--muted); }
+  .note { color:var(--muted); font-size:12px; margin:12px 2px 0; }
+  @media(max-width:600px) { .wrap{width:calc(100% - 24px);padding-top:34px}.stat{flex:1}.filters{width:100%}.filters label{flex:1}.filters select{width:100%;min-width:0} }
+</style>
+</head>
+<body>
+  <!-- Navigation Bar -->
+    <div class="navbar">
+        <h1>Electro</h1>
+        <div class="nav-links">
+            <a href="#">About</a>
+            <a href="#">Speedruns</a>
+            <a href="completed games folder/completed_games.html">Mastery</a>
+            <a href="#">Sports</a>
+        </div>
+    </div>
+<main class="wrap">
+  <div class="eyebrow">Electros gaming archive</div>
+  <h1>Mastered Games</h1>
+  <p class="intro">A collection of the games ive mastered. Games will only be listed if I have Completed an achievement set or 100%ed the game if there is no achievements.</p>
+
+  <section class="stats" aria-label="Library statistics">
+    <div class="stat"><strong id="totalCount">6</strong><span>Games completed</span></div>
+    <div class="stat"><strong id="franchiseCount">6</strong><span>Franchises represented</span></div>
+    <div class="stat"><strong id="systemCount">5</strong><span>Systems played on</span></div>
+  </section>
+
+  <section class="toolbar" aria-label="Table filters">
+    <div>
+      <div class="eyebrow">My collection</div>
+      <div style="font-size:20px;font-weight:750;margin-top:3px">
+      Game completion log
+      </div>
+    </div>
+    <div class="filters">
+      <label>Filter by franchise
+        <select id="franchiseFilter"><option value="">All franchises</option></select>
+      </label>
+      <label>Filter by system
+        <select id="genreFilter"><option value="">All system</option></select>                                   
+      </label>
+      <label>Filter by platform
+        <select id="systemFilter"><option value="">All platforms</option></select>
+      </label>
+    </div>
+  </section>
+
+  <div class="table-shell">
+    <table>
+      <thead><tr>
+        <th scope="col">Box art</th>
+        <th scope="col">Game name</th>
+        <th scope="col">Date completed</th>
+        <th scope="col">Franchise</th>
+        <th scope="col">System</th>
+        <th scope="col">Achievement platform</th>
+        <th scope="col">Completion #</th>
+      </tr></thead>
+      <tbody id="gameRows"></tbody>
+    </table>
+    <div id="emptyState" class="empty" hidden>No games match these filters.</div>
+  </div>
+
+</main>
+<script>
+let games = [
+  {name:"The Legend of Zelda: Tears of the Kingdom",date:"2023-06-18",franchise:"The Legend of Zelda",system:"Nintendo Switch",rank:1,cover:cover("ZELDA","TEARS OF THE KINGDOM","#d4a64b","#243f43")},
+  {name:"God of War Ragnarök",date:"2023-11-04",franchise:"God of War",system:"PlayStation 5",rank:2,cover:cover("GOD OF WAR","RAGNARÖK","#9a5546","#182c42")},
+  {name:"Marvel’s Spider-Man 2",date:"2023-12-02",franchise:"Marvel’s Spider-Man",system:"PlayStation 5",rank:3,cover:cover("MARVEL","SPIDER-MAN 2","#d34e4e","#172b4d")},
+  {name:"Super Mario Odyssey",date:"2024-02-17",franchise:"Super Mario",system:"Nintendo Switch",rank:4,cover:cover("SUPER MARIO","ODYSSEY","#d94c40","#294f83")},
+  {name:"Halo Infinite",date:"2024-05-26",franchise:"Halo",system:"Xbox Series X",rank:5,cover:cover("HALO","INFINITE","#b2a878","#344b45")},
+  {name:"Cyberpunk 2077",date:"2024-08-11",franchise:"Cyberpunk",system:"PC",rank:6,cover:cover("CYBERPUNK","2077","#e6d447","#493e5a")}
+];
+function cover(title,subtitle,c1,c2) {
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="380" height="520" viewBox="0 0 380 520"><defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="${c1}"/><stop offset="1" stop-color="${c2}"/></linearGradient><radialGradient id="r"><stop stop-color="#fff" stop-opacity=".38"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient></defs><rect width="380" height="520" fill="url(#g)"/><circle cx="250" cy="190" r="180" fill="url(#r)"/><path d="M0 360L380 180V520H0Z" fill="#07101f" opacity=".42"/><path d="M35 40H345V480H35Z" fill="none" stroke="#fff" stroke-opacity=".35" stroke-width="3"/><text x="190" y="350" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="900" fill="#fff" letter-spacing="3">${title}</text><text x="190" y="395" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#fff">${subtitle}</text><text x="190" y="455" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#fff" letter-spacing="5">COMPLETED EDITION</text></svg>`;
+  return "data:image/svg+xml;charset=utf-8," + encodeURIComponent(svg);
+}
+const rows = document.getElementById("gameRows");
+const franchiseFilter = document.getElementById("franchiseFilter");
+const genreFilter = document.getElementById("genreFilter");
+const systemFilter = document.getElementById("systemFilter");
+const unique = key => [...new Set(games.map(g => g[key]))].sort();
+unique("franchise").forEach(v => franchiseFilter.add(new Option(v,v)));
+unique("system").forEach(v => systemFilter.add(new Option(v,v)));
+function formatDate(value) {
+  return new Date(value + "T12:00:00").toLocaleDateString(undefined,{year:"numeric",month:"short",day:"numeric"});
+}
+function render() {
+  const visible = games.filter(g =>
+  (!franchiseFilter.value || g.franchise === franchiseFilter.value) &&
+  (!systemFilter.value || g.system === systemFilter.value) &&
+  (!genreFilter.value || g.genre === genreFilter.value)
+  ).sort((a,b)=>a.rank-b.rank);
+  rows.innerHTML = visible.map(g => `<tr>
+    <td><img class="cover" src="${escapeHtml(g.cover)}" alt="${escapeHtml(g.name)} box art"></td>
+    <td><div class="game-name">${escapeHtml(g.name)}</div></td>
+    <td>${formatDate(g.date)}</td>
+    <td><span class="pill">${escapeHtml(g.franchise)}</span></td>
+    <td><span class="pill">${escapeHtml(g.genre)}</span></td>
+    <td><span class="pill">${escapeHtml(g.system)}</span></td>
+    <td><span class="rank">${g.rank}</span></td>
+  </tr>`).join("");
+  document.getElementById("emptyState").hidden = visible.length !== 0;
+  document.getElementById("totalCount").textContent = games.length;
+  document.getElementById("franchiseCount").textContent = unique("franchise").length;
+  document.getElementById("systemCount").textContent = unique("system").length;
+}
+function escapeHtml(value) {
+  return String(value).replace(/[&<>"']/g, ch => ({
+    "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"
+  }[ch]));
+}
+
+
+async function loadGamesAutomatically() {
+  const status = document.getElementById("importStatus");
+
+  try {
+    // Automatically load games.txt
+    const response = await fetch("./games.txt");
+
+    if (!response.ok) {
+      throw new Error("Could not find games.txt");
+    }
+
+    const contents = await response.text();
+
+    const lines = contents.replace(/^\uFEFF/, "").split(/\r?\n/);
+    const parsed = [];
+    const errors = [];
+
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+
+      if (!line || line.startsWith("#")) continue;
+
+      const fields = line.split("|").map(x => x.trim());
+
+      if (fields.length < 6 || fields.length > 7) {
+        errors.push(`Line ${i + 1}: Invalid format.`);
+        continue;
+      }
+
+      const [name, date, franchise, genre, system, rankText, imageName = ""] = fields;
+      const rank = Number(rankText);
+
+      if (!name || !franchise || !system || !genre) {
+       errors.push(`Line ${i + 1}: Missing required information.`);
+       continue;
+      }
+
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(date) ||
+          Number.isNaN(Date.parse(date + "T12:00:00"))) {
+        errors.push(`Line ${i + 1}: Invalid date.`);
+        continue;
+      }
+
+      if (!Number.isInteger(rank) || rank < 1) {
+        errors.push(`Line ${i + 1}: Invalid completion number.`);
+        continue;
+      }
+
+      // Automatically locate box art inside images/
+      const coverImage = imageName
+        ? `./images/${encodeURIComponent(imageName)}`
+        : cover(name.toUpperCase(), "COMPLETED", "#52658b", "#17243c");
+
+      parsed.push({
+        name,
+        date,
+        franchise,
+        genre,
+        system,
+        rank,
+        cover: coverImage
+      });
+    }
+
+    if (errors.length) {
+      throw new Error(errors.join(" "));
+    }
+
+    if (parsed.length === 0) {
+      throw new Error("No game entries found.");
+    }
+
+    games = parsed;
+
+    // Rebuild franchise filter
+    franchiseFilter.innerHTML =
+      '<option value="">All franchises</option>';
+
+    [...new Set(games.map(g => g.franchise))]
+      .sort()
+      .forEach(v => franchiseFilter.add(new Option(v, v)));
+
+    // Rebuild system filter
+    systemFilter.innerHTML =
+      '<option value="">All platforms</option>';
+
+    [...new Set(games.map(g => g.system))]
+      .sort()
+      .forEach(v => systemFilter.add(new Option(v, v)));
+
+    genreFilter.innerHTML =
+    '<option value="">All systems</option>';
+
+    [...new Set(games.map(g => g.genre))]
+    .sort()
+    .forEach(v => genreFilter.add(new Option(v, v)));
+    render();
+
+    status.textContent =
+      `Automatically loaded ${games.length} games.`;
+
+    status.style.color = "var(--accent2)";
+
+  } catch (error) {
+    status.textContent = "Loading error: " + error.message;
+    status.style.color = "#ff9b9b";
+  }
+}
+
+// Load everything when the webpage opens
+loadGamesAutomatically();
+
+
+franchiseFilter.addEventListener("change",render);
+systemFilter.addEventListener("change",render);
+genreFilter.addEventListener("change", render);
+render();
+</script>
+</body>
+</html>

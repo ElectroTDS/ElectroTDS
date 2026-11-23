@@ -1,0 +1,21 @@
+# Name | Date | Franchise | Achievement platform | System | Completion number | Image filename
+
+Mario Kart Tour | 2021-06-25 | Super Mario | IOS | Game Center | 1 | mktour3.png
+Rocket League | 2024-07-01 | Rocket League | PC | Epic | 2 | rl.png
+Mario Kart: Double Dash!! | 2024-07-16 | Super Mario | Gamecube | Retro Achievements | 3 | mkdd.png
+PlateUp! | 2025-02-11 | PlateUp! | PC | Steam | 4 | plateup.png
+A Game About Digging A Hole | 2025-03-05 | Digging A Hole | PC | Steam | 5 | dig_a_hole.png
+Super Mario Sunshine | 2025-04-02 | Super Mario | Gamecube | Retro Achievements | 6 | sms.png
+The Legend of Zelda: Ocarina of Time | 2025-08-06 | Zelda | N64 | Retro Achievements | 7 | oot.png
+Spongebob Squarepants: The Movie | 2025-09-11 | Spongebob | Gamecube | Retro Achievements | 8 | spongebob_movie_gc.png
+Mario Kart: Double Dash!! Hero Subset | 2026-04-20 | Super Mario | Gamecube | Retro Achievements | 9 | mkdd.png
+Donkey Kong Country Returns Shiny Medal Subset | 2026-05-13 | Donkey Kong | Wii | Retro Achievements | 10 | dkcr.png
+Donkey Kong Country Returns | 2026-05-13 | Donkey Kong | Wii | Retro Achievements | 11 | dkcr.png
+Minecraft: Bedrock Edition | 2026-06-30 | Minecraft | PC | Xbox | 12 | mc_bedrock.png
+Mario Kart: Double Dash Extended | 2026-08-05 | Super Mario | Gamecube | Retro Achievements | 13 | mkdd.png
+Super Mario Bros. | 2026-08-09 | Super Mario | NES | Retro Achievements | 14 | smb.png
+The Legend of Zelda: A Link to the Past | 2026-10-03 | Zelda | SNES | Retro Achievements | 15 | lttp.png
+TUNIC | 2026-11-02 | TUNIC | PC | Steam | 16 | tunic.png
+The Legend of Zelda: Ocarina of Time Remake | 2026-11-10 | Zelda | Switch 2 | Nintendo | 17 | ootr.png
+Forza Horizon 6 | 2026-11-13 | Forza | PC | Steam | 18 | fh6.png
+Forza Horizon 6 | 2026-11-13 | Forza | PC | Xbox | 19 | fh6.png
