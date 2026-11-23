@@ -1,4 +1,4 @@
-TITLE=Its crazy how 1 person can change history forever
+TITLE=Its crazy how 1 person can change history forever...
 DATE=November 23rd, 2026
 
 SECTION=Speedruns
@@ -24,4 +24,5 @@ SECTION=This Weeks Plans
 TEXT=Work on Link to the Past video. (i need to stop procrastinating 2x).
 TEXT=MKDD, Peach Beach Flap, DK Mountain top 10s and maybe return to Mushroom City Glitch?
 TEXT=Hollow Knight, ARK, Schedule 1.
+
 
